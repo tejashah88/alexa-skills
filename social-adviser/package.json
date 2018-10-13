@@ -1,0 +1,27 @@
+{
+  "name": "social-adviser",
+  "version": "0.0.1",
+  "description": "An Amazon Alexa skill that allows you to analyze a potential post and notifies the tone being conveyed.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejashah88/social-adviser.git"
+  },
+  "author": "tejashah88",
+  "bugs": {
+    "url": "https://github.com/tejashah88/social-adviser/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/tejashah88/social-adviser#readme",
+  "dependencies": {
+    "alexa-utils": "^0.2.9",
+    "watson-developer-cloud": "^2.7.1"
+  }
+}
