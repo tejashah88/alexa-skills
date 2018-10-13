@@ -1,0 +1,16 @@
+{
+  "name": "android-usage",
+  "version": "0.0.1",
+  "description": "An alexa skill for retrieving the usage stats of different Android versions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas Shah (tejashah88)",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.2.1",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

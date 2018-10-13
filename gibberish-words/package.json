@@ -1,0 +1,15 @@
+{
+  "name": "gibberish-words",
+  "version": "0.0.1",
+  "description": "A skill that generates nonsense words, sentences, and paragraphs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "lambda-local -f index.js -e test.json -t 20"
+  },
+  "author": "Tejas Shah",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "github:alexa-js/alexa-app",
+    "chance": "^1.0.10"
+  }
+}

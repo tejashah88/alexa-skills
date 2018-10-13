@@ -1,0 +1,15 @@
+{
+  "name": "drip-calculator",
+  "version": "1.0.0",
+  "description": "A drip calculator alexa skill.",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas Shah (tejashah88)",
+  "license": "MIT"
+}
