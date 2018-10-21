@@ -1,0 +1,24 @@
+{
+  "name": "mlh-events",
+  "version": "1.0.0",
+  "description": "An Alexa skill for getting the latest MLH hackathons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tejas Shah (tejashah88)",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.2.2",
+    "axios": "^0.18.0",
+    "ssml-builder": "^0.4.3"
+  },
+  "devDependencies": {
+    "app-root-path": "^2.1.0",
+    "chai": "^4.2.0",
+    "eslint": "^5.7.0",
+    "fs-extra": "^7.0.0",
+    "mocha": "^5.2.0",
+    "moment": "^2.22.2"
+  }
+}

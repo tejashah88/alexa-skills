@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Cal Hacks 5.0",
+    "url": "2018.calhacks.io",
+    "startDate": "2018-11-02",
+    "endDate": "2018-11-04",
+    "location": "Berkeley, CA",
+    "isHighSchool": false
+  },
+  {
+    "name": "Electric City Hacks",
+    "url": "echacks.com",
+    "startDate": "2018-11-02",
+    "endDate": "2018-11-04",
+    "location": "Peterborough, ON",
+    "isHighSchool": false
+  },
+  {
+    "name": "HackHolyoke",
+    "url": "hackholyoke.com",
+    "startDate": "2018-11-02",
+    "endDate": "2018-11-03",
+    "location": "South Hadley, MA",
+    "isHighSchool": false
+  },
+  {
+    "name": "VandyHacks",
+    "url": "vandyhacks.org",
+    "startDate": "2018-11-02",
+    "endDate": "2018-11-04",
+    "location": "Nashville, TN",
+    "isHighSchool": false
+  },
+  {
+    "name": "WHACK (Wellesley Hacks)",
+    "url": "wellesleyhacks.org",
+    "startDate": "2018-11-02",
+    "endDate": "2018-11-04",
+    "location": "Wellesley, MA",
+    "isHighSchool": false
+  },
+  {
+    "name": "CodeRED Discovery",
+    "url": "uhcode.red",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-04",
+    "location": "Houston, TX",
+    "isHighSchool": false
+  },
+  {
+    "name": "HackNJIT",
+    "url": "www.hacknjit.org",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-04",
+    "location": "Newark, NJ",
+    "isHighSchool": false
+  },
+  {
+    "name": "HealthHacks",
+    "url": "healthhacks.vcu.edu",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-04",
+    "location": "Richmond, VA",
+    "isHighSchool": false
+  },
+  {
+    "name": "UB Hacking",
+    "url": "ubhacking.com",
+    "startDate": "2018-11-03",
+    "endDate": "2018-11-04",
+    "location": "Amherst, NY",
+    "isHighSchool": false
+  },
+  {
+    "name": "HackPrinceton",
+    "url": "hackprinceton.com",
+    "startDate": "2018-11-09",
+    "endDate": "2018-11-11",
+    "location": "Princeton, NJ",
+    "isHighSchool": false
+  },
+  {
+    "name": "sunhacks",
+    "url": "sunhacks.io",
+    "startDate": "2018-11-09",
+    "endDate": "2018-11-11",
+    "location": "Phoenix/Tempe, AZ",
+    "isHighSchool": false
+  },
+  {
+    "name": "BostonHacks",
+    "url": "bostonhacks.io",
+    "startDate": "2018-11-10",
+    "endDate": "2018-11-11",
+    "location": "Boston, MA",
+    "isHighSchool": false
+  },
+  {
+    "name": "Codestellation",
+    "url": "www.codestellation.io",
+    "startDate": "2018-11-10",
+    "endDate": "2018-11-11",
+    "location": "Waltham, MA",
+    "isHighSchool": false
+  },
+  {
+    "name": "HackWITUs",
+    "url": "hackwit.us",
+    "startDate": "2018-11-10",
+    "endDate": "2018-11-11",
+    "location": "Boston, MA",
+    "isHighSchool": false
+  },
+  {
+    "name": "MadHacks",
+    "url": "www.madhacks.io",
+    "startDate": "2018-11-10",
+    "endDate": "2018-11-11",
+    "location": "Madison, WI",
+    "isHighSchool": false
+  },
+  {
+    "name": "Technica",
+    "url": "gotechnica.org",
+    "startDate": "2018-11-10",
+    "endDate": "2018-11-11",
+    "location": "College Park, MD",
+    "isHighSchool": false
+  },
+  {
+    "name": "HackUSU",
+    "url": "hackusu.org",
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-17",
+    "location": "Logan, UT",
+    "isHighSchool": false
+  },
+  {
+    "name": "Lehman Hack50",
+    "url": "nslehman.github.io",
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-17",
+    "location": "Bronx, NY",
+    "isHighSchool": false
+  },
+  {
+    "name": "BlocHacks",
+    "url": "www.blochacks.com",
+    "startDate": "2018-11-17",
+    "endDate": "2018-11-18",
+    "location": "Montreal, QC",
+    "isHighSchool": false
+  },
+  {
+    "name": "SacHacks",
+    "url": "sachacks.io",
+    "startDate": "2018-11-17",
+    "endDate": "2018-11-18",
+    "location": "Sacramento, CA",
+    "isHighSchool": false
+  },
+  {
+    "name": "Hack Western V",
+    "url": "hackwestern.com",
+    "startDate": "2018-11-23",
+    "endDate": "2018-11-25",
+    "location": "London, ON",
+    "isHighSchool": false
+  },
+  {
+    "name": "YHack",
+    "url": "www.yhack.org",
+    "startDate": "2018-11-30",
+    "endDate": "2018-12-02",
+    "location": "New Haven, CT",
+    "isHighSchool": false
+  },
+  {
+    "name": "ConUHacks IV",
+    "url": "conuhacks.io",
+    "startDate": "2019-01-26",
+    "endDate": "2019-01-27",
+    "location": "Montreal, QC",
+    "isHighSchool": false
+  }
+]

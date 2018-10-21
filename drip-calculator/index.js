@@ -21,8 +21,8 @@ function round2Tenths(number) {
 
 app.post = function(req, res, type, error) {
   if (error) {
-  console.log(error);
-  return res.clear().say("An error occured: " + error).send();
+    console.log(error);
+    return res.clear().say("An error occured: " + error).send();
   }
 };
 
